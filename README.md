@@ -1,5 +1,5 @@
 # linux-cloud-computing
-
+[码云地址]（https://gitee.com/haojie_xuexi/linux-cloud-computing）
 **Linux云计算.md**这个文件推荐使用用**[Typora](https://typora.io/)**这个软件打开查看
 
 # 关于Typora
